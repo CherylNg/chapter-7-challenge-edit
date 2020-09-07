@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.3.0"
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.6.0"
     },
     "files": [
         "main.blocks",
